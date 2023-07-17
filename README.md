@@ -17,3 +17,6 @@
   - 독립변수들 간의 모든 조합 고려
 
 프로젝트 상황은 밀릴 수 있음
+
+해당 사이트에서 제공하는 데이터셋 mtcars의 url은
+'https://gist.githubusercontent.com/seankross/a412dfbd88b3db70b74b/raw/5f23f993cd87c283ce766e7ac6b329ee7cc2e1d1/mtcars.csv' 으로 변경해야함
