@@ -8,8 +8,8 @@
 - ~4주차(-23/7/25) : "Part Of A Whole"~ --> 23/7/17 완료
 - ~5주차(-23/8/1) : "Evolution"~ --> 23/7/31 완료
 - ~6주차(-23/8/8) : "Map"~ --> 23/8/7 완료
-- 7주차(-23/8/15) : "Flow"
-- 8주차(-23/8/22) : "General knowledge"
+- ~7주차(-23/8/15) : "Flow"~ --> 23/8/9 완료
+- ~8주차(-23/8/22) : "General knowledge"~ --> 1-7주차 까지의 내용이 반복되므로 생략
 - 9주차(-23/8/29) : "1-4주차" 그래프 bokeh로 구현
 - 10주차(-23/9/5) : "5-8주차" 그래프 bokeh로 구현
 
@@ -25,4 +25,5 @@
 - 해당 사이트에서 제공하는 데이터셋 mtcars의 url은
   - 'https://gist.githubusercontent.com/seankross/a412dfbd88b3db70b74b/raw/5f23f993cd87c283ce766e7ac6b329ee7cc2e1d1/mtcars.csv' 으로 변경해야함
 - "Python graph gallery"의 샘플코드 중 Map에 관련된 geoplot은 사용할 수 없는것으로 판단하여 folium, plotly, pydeck으로 대체
+- Flow step에서 'chord diagram'은 chord 라이브러리가 유료화가 되어 'pycirclize' 및 'bokeh'를 사용
 
