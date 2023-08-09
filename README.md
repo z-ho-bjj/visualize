@@ -25,4 +25,5 @@
 - 해당 사이트에서 제공하는 데이터셋 mtcars의 url은
   - 'https://gist.githubusercontent.com/seankross/a412dfbd88b3db70b74b/raw/5f23f993cd87c283ce766e7ac6b329ee7cc2e1d1/mtcars.csv' 으로 변경해야함
 - "Python graph gallery"의 샘플코드 중 Map에 관련된 geoplot은 사용할 수 없는것으로 판단하여 folium, plotly, pydeck으로 대체
+- Flow step에서 'chord diagram'은 chord 라이브러리가 유료화가 되어 'pycirclize' 및 'bokeh'를 사용
 
